@@ -1,0 +1,15 @@
+{
+    "name": "stani-guru/guru",
+    "description": "WordPress teheme ",
+    "type": "wordpress-theme",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "guru",
+        "email": "s.p.germanov@gmail.com"
+    }]
+}
